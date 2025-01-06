@@ -17,6 +17,7 @@ This project classifies prompts submitted to the AI assistant, FedBot, at St. Fa
 - `jailbreak.csv`: Contains the dataset used for training and testing.
 - `Prompt Classification Notebook.ipynb`: Jupyter Notebook with the full analysis, processing, and model.
 - `requirements.txt`: Lists the dependencies required to run the project.
+- `images`: images used in this readme file.
 - `README.md`: This file.
 
 ## Dataset
