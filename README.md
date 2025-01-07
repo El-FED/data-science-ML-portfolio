@@ -8,27 +8,6 @@ This is my portfolio, where I showcase some of the Data Science, Machine Learnin
 
 ## Projects
 
-<img align="left" width="250" height="150" src="https://via.placeholder.com/250x150.png?text=Customer+Purchase+Prediction"> **[Customer Purchase Prediction](#)**
-
-This project predicts whether a customer will complete a purchase during their session on an e-commerce platform. By analyzing session and behavioral data, businesses can reduce cart abandonment, improve user experience, and optimize marketing strategies. Achieved 94.1% accuracy with a fine-tuned Random Forest model.
-
-Key highlights:
-- Addressed class imbalance using SMOTE.
-- Conducted extensive hyperparameter tuning for Random Forest.
-- Delivered actionable insights on customer behavior.
-
----
-
-<img align="left" width="250" height="150" src="https://via.placeholder.com/250x150.png?text=Global+Energy+Opportunities"> **[Global Energy Emerging Opportunities](#)**
-
-Analyzed the global energy landscape to identify trends in renewable and conventional energy. Insights helped inform InvEnergy’s investment decisions by balancing risks and opportunities in the energy sector.
-
-Key highlights:
-- Evaluated renewable energy growth in Europe, Asia, and emerging markets.
-- Identified energy production gaps to highlight potential investment opportunities.
-- Achieved actionable regional risk assessments.
-
----
 
 <img align="left" width="250" height="150" src="https://via.placeholder.com/250x150.png?text=Prompt+Classification"> **[Prompt Classification](#)**
 
@@ -49,6 +28,28 @@ Key highlights:
 - Addressed class imbalance with class weights.
 - Optimized CNN for small object detection in noisy environments.
 - Generated insights for global trade routes and logistics.
+
+---
+
+<img align="left" width="250" height="150" src="https://via.placeholder.com/250x150.png?text=Customer+Purchase+Prediction"> **[Customer Purchase Prediction](#)**
+
+This project predicts whether a customer will complete a purchase during their session on an e-commerce platform. By analyzing session and behavioral data, businesses can reduce cart abandonment, improve user experience, and optimize marketing strategies. Achieved 94.1% accuracy with a fine-tuned Random Forest model.
+
+Key highlights:
+- Addressed class imbalance using SMOTE.
+- Conducted extensive hyperparameter tuning for Random Forest.
+- Delivered actionable insights on customer behavior.
+
+---
+
+<img align="left" width="250" height="150" src="https://via.placeholder.com/250x150.png?text=Global+Energy+Opportunities"> **[Global Energy Emerging Opportunities](#)**
+
+Analyzed the global energy landscape to identify trends in renewable and conventional energy. Insights helped inform InvEnergy’s investment decisions by balancing risks and opportunities in the energy sector.
+
+Key highlights:
+- Evaluated renewable energy growth in Europe, Asia, and emerging markets.
+- Identified energy production gaps to highlight potential investment opportunities.
+- Achieved actionable regional risk assessments.
 
 ---
 
