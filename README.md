@@ -13,6 +13,7 @@ This is my portfolio, where I showcase some of the Data Science, Machine Learnin
 
 Classified benign and harmful prompts for FedBot, St. Facundo's University’s AI assistant, achieving 98% accuracy. This project ensures secure and reliable interactions with the AI assistant.
 
+
 Key highlights:
 - Used DistilBERT for efficient text classification.
 - Visualized results with confusion matrices and word clouds.
@@ -23,6 +24,7 @@ Key highlights:
 <img align="left" width="250" height="150" src="https://github.com/El-FED/data-science-ML-portfolio/blob/main/images/ship_cover.png"> **[Ship Detection Using Satellite Images](https://github.com/El-FED/data-science-ML-portfolio/tree/main/Ship%20Detection%20Using%20Satellite%20Images)**
 
 Built a Convolutional Neural Network (CNN) to detect ships in satellite imagery, supporting OceanSight’s mission to monitor global maritime activity. Achieved 97.17% accuracy on the test dataset.
+
 
 Key highlights:
 - Addressed class imbalance with class weights.
@@ -35,6 +37,7 @@ Key highlights:
 
 This project predicts whether a customer will complete a purchase during their session on an e-commerce platform. By analyzing session and behavioral data, businesses can reduce cart abandonment, improve user experience, and optimize marketing strategies. Achieved 94.1% accuracy with a fine-tuned Random Forest model.
 
+
 Key highlights:
 - Addressed class imbalance using SMOTE.
 - Conducted extensive hyperparameter tuning for Random Forest.
@@ -45,6 +48,7 @@ Key highlights:
 <img align="left" width="250" height="150" src="https://github.com/El-FED/data-science-ML-portfolio/blob/main/images/energy_cover.png"> **[Global Energy Emerging Opportunities](https://github.com/El-FED/data-science-ML-portfolio/tree/main/Global%20Energy%20Emerging%20Opportunities%20Analysis)**
 
 Analyzed the global energy landscape to identify trends in renewable and conventional energy. Insights helped inform InvEnergy’s investment decisions by balancing risks and opportunities in the energy sector.
+
 
 Key highlights:
 - Evaluated renewable energy growth in Europe, Asia, and emerging markets.
