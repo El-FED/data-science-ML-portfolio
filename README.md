@@ -9,7 +9,7 @@ This is my portfolio, where I showcase some of the Data Science, Machine Learnin
 ## Projects
 
 
-<img align="left" width="250" height="150" src="https://github.com/El-FED/data-science-ML-portfolio/blob/main/images/prompt_cover.png"> **[Prompt Classification](https://github.com/El-FED/data-science-ML-portfolio/tree/main/Prompt%20Classification)**
+<img align="left" width="250" height="150" src="https://github.com/El-FED/data-science-ML-portfolio/blob/main/images/prompt_coverv2.png"> **[Prompt Classification](https://github.com/El-FED/data-science-ML-portfolio/tree/main/Prompt%20Classification)**
 
 Classified benign and harmful prompts for FedBot, St. Facundo's University’s AI assistant, achieving 98% accuracy. This project ensures secure and reliable interactions with the AI assistant. Using DistilBERT for efficient text classification.
 
