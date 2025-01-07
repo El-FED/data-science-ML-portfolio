@@ -35,7 +35,7 @@ The dataset is sourced from the **Ships in Satellite Imagery Dataset**, which co
 - F1-Score for "Ship" class: **95%**
 
 ### Confusion Matrix
-![Confusion Matrix](images/confusion_matrix.png)
+![Confusion Matrix](images/confusion_matrix_v2.png)
 
 ### Class Distribution
 #### Ship Images
