@@ -5,6 +5,9 @@ This is my portfolio, where I showcase some of the Data Science, Machine Learnin
 
 ## Achievements
 
+- **Reduced Defective Parts in Automotive Process**: Achieved a 5.6% decrease in defective parts during autoparts electrocoating through advanced data analysis and manufacturing expertise.
+- **Optimized Conversion Rate Prediction Models**: developed machine learning models (Random Forest, XGBoost) to predict conversion rates with 90% accuracy.
+- **Machine Learning in Pharma Quality Control**: Reduced lab tests by 30% using a Random Forest model, saving time and resources for AspenTech's pharma clients.
 
 ## Projects
 
@@ -42,9 +45,13 @@ Analyzed the global energy landscape to identify trends in renewable and convent
 - ### Ranking Algorithms
  
 ## Core Competencies
+- **Languages**:  Python, SQL, C
+- **Tools/Frameworks**: TensorFlow, Scikit-learn, Docker, Apache Spark, Azure
+- **Techniques**: Predictive Analytics, Statistical Analysis, Machine Learning Algorithms (SVMs, Decision Trees, Neural Networks, XGboost)
+- **MLOps**: Model deployment and monitoring
 
-- **Methodologies**:
-- **Languages**: 
-- **Tools**:
-
-## Certificates
+## Education/Certificates
+MSc in Data Science, AI and Digital Business, GISMA University of Applied Sciences (Berlin, Germany, 2025)
+BSc in Chemical Engineering, Anáhuac University (ABET Accredited)
+Certifications in Plant and Project Management.
+Machine Learning in Production deeplearning.ai
