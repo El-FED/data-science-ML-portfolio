@@ -23,25 +23,6 @@ This project classifies prompts submitted to the AI assistant, FedBot, at St. Fa
 ## Dataset
 The dataset is sourced from HuggingFace: [Jailbreak Classification Dataset](https://huggingface.co/datasets/jackhhao/jailbreak-classification).
 
-## Reproducing the Analysis
-To reproduce this project:
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/El-FED/data-science-ML-portfolio.git
-    ```
-2. Navigate to the project folder:
-    ```bash
-    cd "data-science-ML-portfolio/Prompt Classification"
-    ```
-3. Install dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
-4. Run the Jupyter Notebook:
-    ```bash
-    jupyter notebook "Prompt Classification Notebook.ipynb"
-    ```
-
 ## Results
 **Model Performance:**
 - Accuracy: **98%**
