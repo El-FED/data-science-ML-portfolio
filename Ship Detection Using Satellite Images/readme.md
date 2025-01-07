@@ -19,6 +19,7 @@ This project's focus is on building a **Convolutional Neural Network (CNN)** cap
 - `shipsnet_sample.json`: A subset of the original dataset, consisting of 75 labeled satellite images (selected from the full dataset of 4000 images), used for training and testing.
 - `Ship Detection Notebook.ipynb`: Jupyter Notebook detailing the data processing, model training, and evaluation pipeline.
 - `requirements.txt`: Lists the Python dependencies needed for the project.
+- `images`: images used in this readme file.
 - `README.md`: This file.
 
 ## Dataset
