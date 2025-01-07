@@ -17,8 +17,8 @@ This project focuses on predicting whether a customer will complete a purchase d
 ## Folder Contents
 - `shoppers_user_behavior.csv`: The dataset containing user session details and purchase outcomes.
 - `Customer Purchase Prediction Notebook.ipynb`: Jupyter Notebook with the complete pipeline, from data exploration to model training.
-- `images`:
-- `requirements.txt`: 
+- `requirements.txt`: Lists the Python dependencies needed for the project.
+- `images`: images used in this readme file.
 - `README.md`: This file.
 
 ## Dataset
